@@ -1,7 +1,7 @@
 track ENCODE_devTimecourse
 compositeTrack on
 shortLabel Dev Timecourse
-longLabel ENCODE developmental bigWig signal (E10.5 → P60)
+longLabel ENCODE developmental bigWig signal (E10.5_to_P60)
 type bigWig
 visibility full
 autoScale on
