@@ -1,0 +1,5 @@
+hub ENCODE_dev_timecourse
+shortLabel Dev Timecourse
+longLabel ENCODE developmental timecourse
+genomesFile genomes.txt
+email your.email@domain.com
